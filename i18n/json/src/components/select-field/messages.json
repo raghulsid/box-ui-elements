@@ -1,0 +1,7 @@
+[
+  {
+    "id": "boxui.selectField.clearAll",
+    "description": "text shown on the Clear All option in the options list",
+    "defaultMessage": "Clear All"
+  }
+]
